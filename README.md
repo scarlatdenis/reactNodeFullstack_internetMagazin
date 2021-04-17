@@ -1,0 +1,1 @@
+# reactNodeFullstack_internetMagazin
